@@ -1,0 +1,110 @@
+01. Persiapan
+    a. Install XAMPP
+    b. Persiapan Project
+      Membuat folder weshop (CSS, function, images, js, module) di folder /root/opt/lampp)
+    c. Persiapan Data Base
+   
+02. Membuat Template
+    a. Images dan Helper
+    b. Index File
+    c. CSS
+    d. Membuat Konten Dinamis
+   
+03. Halaman Register
+    a. Form
+    b. CSS
+    c. Koneksi
+    d. Proses Register
+    e. Pengecekan Field
+    f. Validasi Password
+    g. Validasi Email 
+   
+04. Halaman Login
+    a. Form Login
+    b. Proses Login
+    c. Session Login
+    d. Protek Halaman Login dan Register
+    e. Menu Login dan Register
+    f. Logout
+   
+05. My Profile
+    a. Page
+    b. CSS
+    c. Protek Login dan Module Menu
+    d. Menu Aktif
+    
+06. Module Kategori
+    a. Page
+    b. Form Tambah Kategori
+    c. Include di File Action
+    d. Action Insert
+    e. Form Edit Kategori
+    f. Action Update
+    g. List Style
+   
+07. Module Barang
+    a. List Barang
+    b. Form Tambah Barang
+    c. Kolom dan Belajar Urutan MySQL
+    d. Lanjut Form
+    e. Action Insert
+    f. Join
+    g. Membuat Fungsi Rupiah
+    h. Form Edit Barang
+    i. Action Update
+    j. Ckeditor
+    
+08. Module Lainnya
+    a. Folder Module Lainnya
+    b. Database dan Images
+    c. User Level
+    
+09.  Halaman Utama
+    a. Main dan Kategori
+    b. List Barang
+    c. CSS
+    d. Liat Barang Berdasarkan Kategori
+    
+10. Banner
+    a. Setup
+    b. Mulai Penggunaan
+
+11. Detail Barang
+    a. Fungsi Kategori
+    b. Detail Barang
+    c. CSS
+
+12. Keranjang
+    a. Penjelasan Array
+    b. Tambahan Keranjang
+    c. List Keranjang
+    d. Update Keranjang
+    e. Hapus Item
+    g. Sub Total dan Proses
+
+13. Proses Pemesanan
+    a. Form Data Pemesan
+    b. Detail Order
+    c. CSS
+    d. Proteksi Halaman
+    e. Proses Pemesanan
+    
+14. Module Pemesanan
+    a. Data Pesanan
+    b. Detail Pesanan
+    c. Konfirmasi Pembayaran
+    e. Action Konfirmasi Pembayaran
+    f. List
+    g. Form Edit Status
+    h. Action Update Status
+    
+15. Finishing
+    a. Menghindari SQL Injection dengan PDO
+    b. Menyatukan Select Tabel Barang
+    c. URL SEO Friendly
+    d. Proteksi Halaman Module Admin
+    e. Pagination
+    f. Search
+    g. Fitur Delete
+    h. File Manager
+    i. Show Hode Password
