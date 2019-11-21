@@ -113,3 +113,7 @@ body{
     margin-bottom: 10px;
     font-size: 11px;
 }
+
+#user {
+    color: white;
+}
